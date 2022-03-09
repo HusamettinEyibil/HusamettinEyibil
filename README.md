@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning** and **Deep Learning** with **Python.** 
 
-- 📝 My personal page 
-
 - 💬 Ask me about **Swift or React Native.**
 
 - 📫 How to reach me **husamettineyibil@gmail.com**
